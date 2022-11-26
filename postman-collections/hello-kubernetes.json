@@ -31,7 +31,7 @@
           "raw": "http://hello-kubernetes-service.default",
           "protocol": "http",
           "host": [
-            "hello-kubernetes-service",
+            "hello-kubernetes-microk8s-service",
             "default"
           ]
         }
